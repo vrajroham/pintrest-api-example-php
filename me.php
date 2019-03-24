@@ -1,4 +1,5 @@
 <?php
+		//import config file
 		require 'config.php';
 
 		// Get current logged in User
