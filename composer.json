@@ -1,0 +1,13 @@
+{
+    "name": "vrajroham/pintrest",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vaibhavraj Roham",
+            "email": "vaibhavraj.developer@gmail.com"
+        }
+    ],
+    "require": {
+        "dirkgroenen/pinterest-api-php": "^0.2.11"
+    }
+}
