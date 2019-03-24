@@ -1,4 +1,6 @@
-<?php require 'config.php';?>
+<?php require 'config.php';
+	echo $pinterest->getRateLimit();
+?>
 <!DOCTYPE html>
 <html>
 <head>
